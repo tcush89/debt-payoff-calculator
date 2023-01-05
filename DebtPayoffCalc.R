@@ -21,7 +21,7 @@ i <- 25.99
 #3: Set desired monthly payment as pmt
 pmt <- 3007
 
-#Now press ENTER and enjoy the output
+#Now run and enjoy the output
 cnt <- 0
 tot_interest <- 0
 
